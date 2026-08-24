@@ -1,0 +1,219 @@
+>Feature ref|NP_000537.3|
+1	393	Protein
+			product	cellular tumor antigen p53 isoform a
+			product	tumor protein 53
+			product	mutant tumor protein 53
+			product	cellular tumor antigen p53
+			product	phosphoprotein p53
+			product	transformation-related protein 53
+			product	antigen NY-CO-13
+			product	tumor supressor p53
+1	320	Region
+			region	Interaction with CCAR2. /evidence=ECO:0000269|PubMed:25732823
+			note	propagated from UniProtKB/Swiss-Prot (P04637.4)
+1	83	Region
+			region	Interaction with HRMT1L2. /evidence=ECO:0000269|PubMed:15186775
+			note	propagated from UniProtKB/Swiss-Prot (P04637.4)
+1	44	Region
+			region	Transcription activation (acidic)
+			note	propagated from UniProtKB/Swiss-Prot (P04637.4)
+6	30	Region
+			region	P53_TAD
+			note	P53 transactivation motif
+			db_xref	CDD:462520
+9	9	Site
+			site_type	phosphorylation
+			note	Phosphoserine, by HIPK4. /evidence=ECO:0000269|PubMed:18022393; propagated from UniProtKB/Swiss-Prot (P04637.4)
+15	15	Site
+			site_type	phosphorylation
+			note	Phosphoserine, by CDK5, PRPK, AMPK, NUAK1 and ATM. /evidence=ECO:0000269|PubMed:10570149, ECO:0000269|PubMed:11554766, ECO:0000269|PubMed:15866171, ECO:0000269|PubMed:17108107, ECO:0000269|PubMed:17591690, ECO:0000269|PubMed:17967874, ECO:0000269|PubMed:21317932, ECO:0000269|PubMed:28842590; propagated from UniProtKB/Swiss-Prot (P04637.4)
+17	25	Region
+			region	TADI
+			note	propagated from UniProtKB/Swiss-Prot (P04637.4)
+18	18	Site
+			site_type	phosphorylation
+			note	Phosphothreonine, by CK1, VRK1 and VRK2. /evidence=ECO:0000269|PubMed:10606744, ECO:0000269|PubMed:10951572, ECO:0000269|PubMed:16704422, ECO:0000269|PubMed:31527692; propagated from UniProtKB/Swiss-Prot (P04637.4)
+20	20	Site
+			site_type	phosphorylation
+			note	Phosphoserine, by CHEK2, CK1 and PLK3. /evidence=ECO:0000269|PubMed:10570149, ECO:0000269|PubMed:11447225, ECO:0000269|PubMed:11551930, ECO:0000269|PubMed:12810724, ECO:0000269|PubMed:20041275; propagated from UniProtKB/Swiss-Prot (P04637.4)
+33	33	Site
+			site_type	phosphorylation
+			note	Phosphoserine, by CDK5 and CDK7. /evidence=ECO:0000269|PubMed:17591690, ECO:0000269|PubMed:9372954; propagated from UniProtKB/Swiss-Prot (P04637.4)
+35	59	Region
+			region	TAD2
+			note	Transactivation domain 2
+			db_xref	CDD:375947
+37	37	Site
+			site_type	phosphorylation
+			note	Phosphoserine, by MAPKAPK5. /evidence=ECO:0000269|PubMed:17254968; propagated from UniProtKB/Swiss-Prot (P04637.4)
+40	40	Region
+			region	alternative start codon
+			note	delta40p53alpha
+46	46	Site
+			site_type	phosphorylation
+			note	Phosphoserine, by CDK5, DYRK2, HIPK2 and PKC/PRKCG. /evidence=ECO:0000269|PubMed:11740489, ECO:0000269|PubMed:11780126, ECO:0000269|PubMed:16377624, ECO:0000269|PubMed:17349958, ECO:0000269|PubMed:17591690; propagated from UniProtKB/Swiss-Prot (P04637.4)
+48	56	Region
+			region	TADII
+			note	propagated from UniProtKB/Swiss-Prot (P04637.4)
+50	96	Region
+			region	Disordered. /evidence=ECO:0000269|PubMed:31953488
+			note	propagated from UniProtKB/Swiss-Prot (P04637.4)
+55	55	Site
+			site_type	phosphorylation
+			note	Phosphothreonine, by TAF1 and GRK5. /evidence=ECO:0000269|PubMed:15053879, ECO:0000269|PubMed:20124405; propagated from UniProtKB/Swiss-Prot (P04637.4)
+66	110	Region
+			region	Interaction with WWOX
+			note	propagated from UniProtKB/Swiss-Prot (P04637.4)
+100	370	Region
+			region	Interaction with HIPK1. /evidence=ECO:0000250
+			note	propagated from UniProtKB/Swiss-Prot (P04637.4)
+100	300	Region
+			region	Required for interaction with ZNF385A. /evidence=ECO:0000269|PubMed:17719541
+			note	propagated from UniProtKB/Swiss-Prot (P04637.4)
+109	288	Region
+			region	P53
+			note	P53 DNA-binding domain
+			db_xref	CDD:176262
+113	236	Region
+			region	Required for interaction with FBXO42. /evidence=ECO:0000269|PubMed:19509332
+			note	propagated from UniProtKB/Swiss-Prot (P04637.4)
+116	292	Region
+			region	Interaction with AXIN1. /evidence=ECO:0000250
+			note	propagated from UniProtKB/Swiss-Prot (P04637.4)
+120	120	Site
+			site_type	other
+			note	Interaction with DNA. /evidence=ECO:0000269|PubMed:16793544, ECO:0000269|PubMed:18996393, ECO:0000269|PubMed:20364130; propagated from UniProtKB/Swiss-Prot (P04637.4)
+120	120	Site
+			site_type	acetylation
+			note	N6-acetyllysine. /evidence=ECO:0000269|PubMed:17189187, ECO:0000269|PubMed:19854137, ECO:0000269|PubMed:23431171; propagated from UniProtKB/Swiss-Prot (P04637.4)
+176	176	Site
+179	179
+238	238
+242	242
+			site_type	other
+			note	zinc binding site [ion binding]
+			db_xref	CDD:176262
+177	179	Site
+181	181
+			site_type	other
+			note	dimerization site [polypeptide binding]
+			db_xref	CDD:176262
+183	183	Site
+			site_type	phosphorylation
+			note	Phosphoserine, by AURKB. /evidence=ECO:0000269|PubMed:20959462; propagated from UniProtKB/Swiss-Prot (P04637.4)
+239	239	Site
+241	241
+248	248
+273	273
+275	277
+280	280
+			site_type	DNA binding
+			note	DNA binding site [nucleotide binding]
+			db_xref	CDD:176262
+241	248	Region
+			region	Interaction with the 53BP2 SH3 domain
+			note	propagated from UniProtKB/Swiss-Prot (P04637.4)
+256	294	Region
+			region	Interaction with E4F1. /evidence=ECO:0000269|PubMed:10644996
+			note	propagated from UniProtKB/Swiss-Prot (P04637.4)
+269	269	Site
+			site_type	phosphorylation
+			note	Phosphoserine, by AURKB. /evidence=ECO:0000269|PubMed:20959462; propagated from UniProtKB/Swiss-Prot (P04637.4)
+273	280	Region
+			region	Interaction with DNA
+			note	propagated from UniProtKB/Swiss-Prot (P04637.4)
+282	325	Region
+			region	Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite
+			note	propagated from UniProtKB/Swiss-Prot (P04637.4)
+284	284	Site
+			site_type	phosphorylation
+			note	Phosphothreonine, by AURKB. /evidence=ECO:0000269|PubMed:20959462; propagated from UniProtKB/Swiss-Prot (P04637.4)
+300	393	Region
+			region	Interaction with CARM1. /evidence=ECO:0000269|PubMed:15186775
+			note	propagated from UniProtKB/Swiss-Prot (P04637.4)
+305	321	Region
+			region	Bipartite nuclear localization signal
+			note	propagated from UniProtKB/Swiss-Prot (P04637.4)
+305	305	Site
+			site_type	acetylation
+			note	N6-acetyllysine. /evidence=ECO:0000269|PubMed:12724314; propagated from UniProtKB/Swiss-Prot (P04637.4)
+315	315	Site
+			site_type	phosphorylation
+			note	Phosphoserine, by AURKA, CDK1 and CDK2. /evidence=ECO:0000269|PubMed:10884347, ECO:0000269|PubMed:14702041; propagated from UniProtKB/Swiss-Prot (P04637.4)
+319	360	Region
+			region	Interaction with HIPK2
+			note	propagated from UniProtKB/Swiss-Prot (P04637.4)
+319	358	Region
+			region	P53_tetramer
+			note	P53 tetramerization motif
+			db_xref	CDD:462238
+321	321	Site
+			site_type	acetylation
+			note	N6-acetyllysine. /evidence=ECO:0000250|UniProtKB:P02340; propagated from UniProtKB/Swiss-Prot (P04637.4)
+325	356	Region
+			region	Oligomerization
+			note	propagated from UniProtKB/Swiss-Prot (P04637.4)
+333	333	Site
+			site_type	methylation
+			note	Omega-N-methylarginine, by PRMT5. /evidence=ECO:0000269|PubMed:19011621; propagated from UniProtKB/Swiss-Prot (P04637.4)
+335	335	Site
+			site_type	methylation
+			note	Symmetric dimethylarginine, by PRMT5. /evidence=ECO:0000269|PubMed:19011621; propagated from UniProtKB/Swiss-Prot (P04637.4)
+337	337	Site
+			site_type	methylation
+			note	Symmetric dimethylarginine, by PRMT5. /evidence=ECO:0000269|PubMed:19011621; propagated from UniProtKB/Swiss-Prot (P04637.4)
+339	350	Region
+			region	Nuclear export signal
+			note	propagated from UniProtKB/Swiss-Prot (P04637.4)
+351	393	Region
+			region	Disordered. /evidence=ECO:0000269|PubMed:31953488, ECO:0000269|PubMed:36108750
+			note	propagated from UniProtKB/Swiss-Prot (P04637.4)
+359	363	Region
+			region	Interaction with USP7
+			note	propagated from UniProtKB/Swiss-Prot (P04637.4)
+368	387	Region
+			region	Basic (repression of DNA-binding)
+			note	propagated from UniProtKB/Swiss-Prot (P04637.4)
+370	372	Region
+			region	[KR]-[STA]-K motif
+			note	propagated from UniProtKB/Swiss-Prot (P04637.4)
+370	370	Site
+			site_type	methylation
+			note	N6,N6-dimethyllysine, alternate. /evidence=ECO:0000269|PubMed:17108971, ECO:0000269|PubMed:22864287; N6-methyllysine, by SMYD2, alternate. /evidence=ECO:0000269|PubMed:17108971, ECO:0000269|PubMed:22864287; propagated from UniProtKB/Swiss-Prot (P04637.4)
+372	372	Site
+			site_type	methylation
+			note	N6-methyllysine, by SETD7. /evidence=ECO:0000269|PubMed:15525938, ECO:0000269|PubMed:16415881; propagated from UniProtKB/Swiss-Prot (P04637.4)
+373	373	Site
+			site_type	methylation
+			note	N6,N6-dimethyllysine, by EHMT1 and EHMT2, alternate. /evidence=ECO:0000269|PubMed:20118233; propagated from UniProtKB/Swiss-Prot (P04637.4)
+373	373	Site
+			site_type	acetylation
+			note	N6-acetyllysine, alternate. /evidence=ECO:0000269|PubMed:10656795; propagated from UniProtKB/Swiss-Prot (P04637.4)
+374	393	Region
+			region	Interaction with MORN3. /evidence=ECO:0000269|PubMed:29681526
+			note	propagated from UniProtKB/Swiss-Prot (P04637.4)
+381	381	Site
+			site_type	acetylation
+			note	N6-acetyllysine. /evidence=ECO:0000269|PubMed:29474172, ECO:0007744|PubMed:19608861; propagated from UniProtKB/Swiss-Prot (P04637.4)
+382	382	Site
+			site_type	methylation
+			note	N6,N6-dimethyllysine, alternate. /evidence=ECO:0000269|PubMed:17707234, ECO:0000269|PubMed:20870725, ECO:0000269|PubMed:22864287; N6-methyllysine, by KMT5A, alternate. /evidence=ECO:0000269|PubMed:17707234, ECO:0000269|PubMed:20870725, ECO:0000269|PubMed:22864287; propagated from UniProtKB/Swiss-Prot (P04637.4)
+382	382	Site
+			site_type	acetylation
+			note	N6-acetyllysine, alternate. /evidence=ECO:0000269|PubMed:10656795, ECO:0000269|PubMed:15448695, ECO:0000269|PubMed:20228809, ECO:0000269|PubMed:23431171, ECO:0000269|PubMed:29681526, ECO:0007744|PubMed:19608861; propagated from UniProtKB/Swiss-Prot (P04637.4)
+392	392	Site
+			site_type	phosphorylation
+			note	Phosphoserine, by CK2, CDK2 and NUAK1. /evidence=ECO:0000269|PubMed:10884347, ECO:0000269|PubMed:11239457, ECO:0000269|PubMed:17108107, ECO:0000269|PubMed:21317932, ECO:0000269|PubMed:22214662, ECO:0000269|PubMed:35618207; propagated from UniProtKB/Swiss-Prot (P04637.4)
+1	393	CDS
+			product	cellular tumor antigen p53 isoform a
+			product	tumor protein 53
+			product	mutant tumor protein 53
+			product	cellular tumor antigen p53
+			product	phosphoprotein p53
+			product	transformation-related protein 53
+			product	antigen NY-CO-13
+			product	tumor supressor p53
+			protein_id	ref|NP_000537.3|
+			note	isoform a is encoded by transcript variant 1
+			db_xref	CCDS:CCDS11118.1
+
